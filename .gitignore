@@ -1,0 +1,27 @@
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Ficheiros de compilação
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Diretórios de output
+/output/
+/build/
+/dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db

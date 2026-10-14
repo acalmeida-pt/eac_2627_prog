@@ -3,5 +3,5 @@
 // Este é o 1º programa em C
 void main()
 {
-    printf("Hello World Pipocas");
+    printf("Hello World!");
 }

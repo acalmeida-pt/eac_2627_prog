@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main() {
-    
-    printf("Hello, World!\n");
-    return 0;
+// Este é o 1º programa em C
+void main()
+{
+    printf("Hello World Pipocas");
 }

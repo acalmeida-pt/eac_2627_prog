@@ -12,6 +12,5 @@ int main()
         // A pessoa com X anos pode doar sangue
         printf("A pessoa com %d anos pode doar sangue", idade);
     }
-
     return 0;
 }
